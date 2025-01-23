@@ -1,6 +1,7 @@
 AppBar
 registre
 mapa
+Menu
 Login
 Scaffold
 Secció1
